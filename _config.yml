@@ -8,4 +8,4 @@ github_username: mytran2111
 
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
