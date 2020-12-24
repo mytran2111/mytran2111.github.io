@@ -1,0 +1,11 @@
+title: My Website
+author: My Duc Tran 
+description: >- 
+        An example website
+baseurl: "" 
+url: "https://mytran2111.github.io/" 
+github_username: mytran2111
+
+
+markdown: kramdown
+theme: minima
