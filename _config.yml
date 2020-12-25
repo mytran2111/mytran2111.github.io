@@ -9,8 +9,8 @@ description: >-
         BSc. Statistics and Computer Science @ McGill  
 baseurl: "" 
 
-github:
-        repo: https://github.com/mytran2111
+# github:
+#         repo: https://github.com/mytran2111
 
 markdown: kramdown
 remote_theme: fongandrew/hydeout
