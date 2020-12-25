@@ -1,7 +1,7 @@
 
 ---
-layout: home
-title: My Website
+layout: index
+title: My Duc Tran 
 ---
 
 This is some text.
