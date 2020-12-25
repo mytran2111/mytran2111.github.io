@@ -19,6 +19,7 @@ When I am not stuyding or working, I spend most of my time cooking and doing yog
 ### Cool People I Met 
 + [Diego Lopez](https://diegolopez.me/)
 + [Anna Brandenberger](https://abrandenberger.github.io/)
++ [Shereen Elaidi](https://shereenelaidi.github.io/)
 
 
 
