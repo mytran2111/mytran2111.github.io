@@ -10,4 +10,4 @@ github_username: mytran2111
 
 
 markdown: kramdown
-remote-theme: poole/hyde
+remote_theme: poole/hyde
