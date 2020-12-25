@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Recipes
+title: My Recipes
 ---
 
 Mia's delicious recipes
