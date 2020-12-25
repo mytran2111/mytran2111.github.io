@@ -16,7 +16,9 @@ I also work part-time to support my living. I worked as Sale Assistant at McGill
 
 When I am not stuyding or working, I spend most of my time cooking and doing yoga. My favourite recipe is "Mi Quang"- a popular dish in South of Vietnam. I also love spending time hanging out with my friends. 
 
-## Cool People I Met 
+### Cool People I Met 
++ [Diego Lopez](https://diegolopez.me/)
+
 
 
 
