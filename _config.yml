@@ -1,12 +1,14 @@
-title: My Duc Tran 
-author: My Duc Tran 
+title: 'My Duc Tran' 
+author: 
+        name: 'My Duc Tran'
+        url: "https://mytran2111.github.io/" 
+        email: 'my.d.tran@mail.mcgill.ca'
+        github: 'https://github.com/mytran2111'
+        linkedin: 'https://www.linkedin.com/in/my-duc-tran-2341a8191/'
 description: >- 
         BSc. Statistics and Computer Science @ McGill  
 baseurl: "" 
-url: "https://mytran2111.github.io/" 
-email: 'my.d.tran@mail.mcgill.ca'
-linkedin: 'https://www.linkedin.com/in/my-duc-tran-2341a8191/'
-github_username: mytran2111
+
 
 
 markdown: kramdown
