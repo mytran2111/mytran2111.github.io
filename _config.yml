@@ -10,6 +10,6 @@ github_username: mytran2111
 
 
 markdown: kramdown
-remote_theme: poole/hyde
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-remote-theme
