@@ -4,4 +4,19 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="images/profile.jpg" style="height: 50vh; display: block; margin: 0 auto;">
-Hi, My name is My Duc Tran, my English name is Mia. I am a student at McGill University. 
+I am a second-year student at McGill University, pursuing a BSc in Statistics and Computer Science.  I went to high school in United Kingdom where I finished my A-level. I was majoring in Natural Science with Gold Medal in Senior Mathematical Challenge and Gold Award in GEO SPECIALTY CHEMICALS CHALLENGE. When I started my university, I changed my major to Statistics and Computer Science as I find Machine Learning and AI quite interesting and my goal is to build model that can think and act intelligently to help human in everyday tasks. 
+
+My academic interests include: 
++ Applied Statistics, Regression
++ Machine Learning, AI
++ Financial Mathematics
++ Discrete Maths and Algorithm. 
+
+I also work part-time to support my living. I worked as Sale Assistant at McGill Le James Bookstore, Communications Assistant at University Advancement and undergraduate teaching assistant for Probability course. 
+
+When I am not stuyding or working, I spend most of my time cooking and doing yoga. My favourite recipe is "Mi Quang"- a Vietnames popular dish in South of Vietnam. I also love spending time hanging out with my friends. 
+
+#Cool People I met 
+
+
+
