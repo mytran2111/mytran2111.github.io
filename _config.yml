@@ -10,4 +10,4 @@ github_username: mytran2111
 
 
 markdown: kramdown
-theme: jekyll-theme-architect
+remote-theme: poole/hyde
