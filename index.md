@@ -4,7 +4,7 @@ title: Home
 ---
 # About Me 
 <img alt="A picture of me" src="images/profile.jpg" style="height: 50vh; display: block; margin: 0 auto;">
-I am a second-year student at McGill University, pursuing a BSc in Statistics and Computer Science.  I went to high school in United Kingdom where I finished my A-level. I was majoring in Natural Science with Gold Medal in Senior Mathematical Challenge and Gold Award in GEO SPECIALTY CHEMICALS CHALLENGE. When I started my university, I changed my major to Statistics and Computer Science as I find Machine Learning and AI quite interesting and my goal is to build model that can think and act intelligently to help human in everyday tasks. 
+I am a second-year student at McGill University, pursuing a BSc in Statistics and Computer Science.  I went to high school in United Kingdom where I did my A-level. I was majoring in Natural Science with Gold Medal in Senior Mathematical Challenge and Gold Award in GEO SPECIALTY CHEMICALS Challenge. When I started my university, I changed my major to Statistics and Computer Science as I find Machine Learning and AI quite interesting and my goal is to build model that can think and act intelligently to help human in everyday tasks. 
 
 My academic interests include: 
 + Applied Statistics, Regression
