@@ -11,3 +11,5 @@ github_username: mytran2111
 
 markdown: kramdown
 remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
