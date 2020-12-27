@@ -12,7 +12,7 @@ My academic interests include:
 + Financial Mathematics
 + Discrete Maths and Algorithm. 
 
-I also work part-time to support my living. I worked as Sale Assistant at McGill Le James Bookstore, Communications Assistant at University Advancement and Undergraduate Teaching Assistant for Probability. 
+I also work part-time to support my living. I worked as Sale Assistant at McGill Le James Bookstore, Communications Assistant at University Advancement and Undergraduate Teaching Assistant for Probability and Linear Algebra I. 
 
 When I am not stuyding or working, I spend most of my time cooking and doing yoga. My favourite recipe is "Mi Quang"- a popular dish in South of Vietnam. I also love spending time hanging out with my friends. 
 
