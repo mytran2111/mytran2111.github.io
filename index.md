@@ -21,11 +21,11 @@ When I am not stuyding or working, I spend most of my time cooking and doing yog
 + [Anna Brandenberger](https://abrandenberger.github.io/)
 + [Shereen Elaidi](https://shereenelaidi.github.io/)
 + [Viet Nguyen](https://opent03.github.io/)
-+ [Gabriela](https://gabrielamp.github.io/)
++ [Gabriela Moisescu-Pareja](https://gabrielamp.github.io/)
 + [Tiffany Yong](https://tiffanyyong.github.io/)
 + [Abu Daud](https://abubakardaud.github.io/)
 + [KC](https://kctsiolis.github.io/)
-+ [Dao Chen](https://daocheny.github.io/)
++ [Dao Chen Yuan](https://daocheny.github.io/)
 
 
 
