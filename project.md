@@ -32,7 +32,7 @@ Created a 2D demo of Flappy Bird with p5.js [code](https://github.com/mytran2111
 
 ## Group Project
 
-[Web Whiteboard](https://mytran2111.github.io/Code-Jam-2020/) - #### 3rd place\
+[Web Whiteboard](https://mytran2111.github.io/Code-Jam-2020/) - 3rd place\
 This is our Code Jam 2020 Hackathon project with Diego Lopez and Khoi Nguyen.\
 Created a virtual whiteboard to reduce the challenge for students to attend online schooling with Javascript, HTML, CSS and p5.js.\
 The webiste worked well with both mouse and touch pen. [code](https://github.com/mytran2111/Code-Jam-2020)
