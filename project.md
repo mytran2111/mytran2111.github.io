@@ -18,6 +18,6 @@ Here are some projects that I have done.
 
 ## Group Project
 
-Web Whiteboard - Code Jam 2020 3rd place
+[Web Whiteboard](https://mytran2111.github.io/Code-Jam-2020/) - Code Jam 2020 3rd place
 
 Modified MNIST - group project w Ricky Chen, Peter sth for ML BootCamp 
