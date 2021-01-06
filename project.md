@@ -16,7 +16,7 @@ Built a web demo to allow client to predict their handwritten digit and uploaded
 [NLP Tweet Disaster Detection]()\
 Created a NLP model to detect tweets with disaster alerts.\
 Implemented data preprocessing, data cleaning, Classifier methods, Logistics Regression with Grid Search CV to find the best parameters.\
-Implemented BERT model using TFHub with accuracy of 84%. [code](https://github.com/mytran2111/NLP_tweet_disaters)
+Implemented BERT model using TFHub with accuracy of 82.8%. [code](https://github.com/mytran2111/NLP_tweet_disaters)
 
 [To Do List](https://mytran2111.github.io/to_do_list/)\
 Created a to-do list web app, inspired by Microsoft To Do. The web app allows user to add new tasks, mark as finished and also remove tasks added. [code](https://github.com/mytran2111/to_do_list)
