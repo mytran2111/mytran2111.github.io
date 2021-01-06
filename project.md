@@ -6,12 +6,12 @@ Here are some projects that I have done.
 ## Personal Project
 
 #### Credit Card Fraud Detection
-Created a classification model to detect fraud transactions with accuracy of 97% and F1 score of 80%
+Created a classification model to detect fraud transactions with accuracy of 97% and F1 score of 80%. 
 Worked imbalanced dataset with 0.72% of fraud transactions by using XGBoost and SMOTE. [code](https://github.com/mytran2111/Credit_card_fraud_detection)
 
 [Digit Recognizer](https://mytran2111.github.io/DigitRecognizer_web_demo/)
 Created a classic MNIST model with 5 convolution neural network with accuracy of 99.7%. [code](https://github.com/mytran2111/MNIST_digit_recognizer)
-(Built a web demo to allow client to predict their handwritten digit and uploaded image of numerical digit using Tensorflow.js and Javascript. [code](https://github.com/mytran2111/DigitRecognizer_web_demo) 
+Built a web demo to allow client to predict their handwritten digit and uploaded image of numerical digit using Tensorflow.js and Javascript. [code](https://github.com/mytran2111/DigitRecognizer_web_demo) 
 
 [NLP Tweet Disaster Detection]()
 Created a NLP model to detect tweets with disaster alerts. 
