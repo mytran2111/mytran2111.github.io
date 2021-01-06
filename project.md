@@ -32,6 +32,11 @@ Created a 2D demo of Flappy Bird with p5.js [code](https://github.com/mytran2111
 
 [Web Whiteboard](https://mytran2111.github.io/Code-Jam-2020/) - Code Jam 2020 3rd place
 
-#### Modified MNIST 
+
+
+#### Modified MNIST - 1st place 
+Worked in a team with Ricky Chen, Peter Guanhua Rong for MAIS202 Kaggle Compeition. 
+Created algorithm with 5 layers convolution neural network to identify the largest numerical value in pictures that contains 3 handwritten numerical digits. 
+Implemented Image Data Generator using Keras library with some data preprocessing methods which allowed us to reach the accuracy of 98%. 
 
 
