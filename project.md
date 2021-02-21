@@ -43,3 +43,12 @@ Created algorithm with 5 layers convolution neural network to identify the large
 Implemented Image Data Generator using Keras library with some data preprocessing methods which allowed us to reach the accuracy of 98%. [code](https://github.com/mytran2111/MNIST_Max-digits)
 
 
+## Hackathon
+
+### C the spped of light
+
+### Effecta Save 
+
+### Govepedia 
+
+
