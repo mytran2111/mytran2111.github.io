@@ -26,6 +26,7 @@ When I am not stuyding or working, I spend most of my time cooking and doing yog
 + [Abu Daud](https://abubakardaud.github.io/)
 + [KC](https://kctsiolis.github.io/)
 + [Dao Chen Yuan](https://daocheny.github.io/)
++ [Maia Darmon ](https://maiadd.github.io/)
 + [Alexander Iannantuono](https://alexander.iannantuono.org/)
 
 
