@@ -45,10 +45,6 @@ Implemented Image Data Generator using Keras library with some data preprocessin
 
 ## Hackathon
 
-### C the spped of light
-
-### Effecta Save 
-
-### Govepedia 
-
+### C the spped of light.
+This is our project submitted to Hack McGill 8, the project is an interactive visualisation of lorentzian transforms in special relativity.
 
