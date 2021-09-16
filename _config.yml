@@ -15,8 +15,8 @@ baseurl: ""
 #         repo: https://github.com/mytran2111
 
 markdown: kramdown
-# remote_theme: fongandrew/hydeout
-remote_theme: daattali/beautiful-jekyll@5.0.0
+remote_theme: fongandrew/hydeout
+# remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-remote-theme
  
