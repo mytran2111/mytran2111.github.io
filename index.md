@@ -22,7 +22,6 @@ When I am not stuyding or working, I spend most of my time cooking and doing yog
 + [Shereen Elaidi](https://shereenelaidi.github.io/)
 + [Viet Nguyen](https://opent03.github.io/)
 + [Tiffany Yong](https://tiffanyyong.github.io/)
-+ [Abu Daud](https://abubakardaud.github.io/)
 + [KC](https://kctsiolis.github.io/)
 + [Dao Chen Yuan](https://daocheny.github.io/)
 + [Maia Darmon ](https://maiadd.github.io/)
